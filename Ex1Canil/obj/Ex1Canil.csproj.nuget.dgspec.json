@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Delson Magalhaes\\FloripaMaisTec\\Projetos\\Semana2C#\\Ex1Canil\\Ex1Canil.csproj": {}
+    "C:\\Users\\Delson Magalhaes\\FloripaMaisTec\\Projetos\\Semana2C#\\ex1canil\\Ex1Canil.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Delson Magalhaes\\FloripaMaisTec\\Projetos\\Semana2C#\\Ex1Canil\\Ex1Canil.csproj": {
+    "C:\\Users\\Delson Magalhaes\\FloripaMaisTec\\Projetos\\Semana2C#\\ex1canil\\Ex1Canil.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Delson Magalhaes\\FloripaMaisTec\\Projetos\\Semana2C#\\Ex1Canil\\Ex1Canil.csproj",
+        "projectUniqueName": "C:\\Users\\Delson Magalhaes\\FloripaMaisTec\\Projetos\\Semana2C#\\ex1canil\\Ex1Canil.csproj",
         "projectName": "Ex1Canil",
-        "projectPath": "C:\\Users\\Delson Magalhaes\\FloripaMaisTec\\Projetos\\Semana2C#\\Ex1Canil\\Ex1Canil.csproj",
+        "projectPath": "C:\\Users\\Delson Magalhaes\\FloripaMaisTec\\Projetos\\Semana2C#\\ex1canil\\Ex1Canil.csproj",
         "packagesPath": "C:\\Users\\Delson Magalhaes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Delson Magalhaes\\FloripaMaisTec\\Projetos\\Semana2C#\\Ex1Canil\\obj\\",
+        "outputPath": "C:\\Users\\Delson Magalhaes\\FloripaMaisTec\\Projetos\\Semana2C#\\ex1canil\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Delson Magalhaes\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -8,11 +8,11 @@ caes.IdCaes = 95;
 caes.Nome = "Fifi";
 caes.Raca = "Pudle";
 
-Console.WriteLine(canil.IdCanil);
-Console.WriteLine(canil.Descricao);
-Console.WriteLine(canil.Capacidade);
+Console.WriteLine($"Identificação do canil:{canil.IdCanil}");
+Console.WriteLine($"Descrição do canil: {canil.Descricao}");
+Console.WriteLine($"Capacidade do canil: {canil.Capacidade}");
 
-Console.WriteLine(caes.IdCaes);
-Console.WriteLine(caes.Nome);
-Console.WriteLine(caes.Raca);
+Console.WriteLine($"Identificação do cão: {caes.IdCaes}");
+Console.WriteLine($"Nome do cão: {caes.Nome}");
+Console.WriteLine($"Raça do cão: {caes.Raca}");
 
