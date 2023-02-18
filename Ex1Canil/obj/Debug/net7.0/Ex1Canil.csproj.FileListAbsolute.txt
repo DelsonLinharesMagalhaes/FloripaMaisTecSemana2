@@ -1,0 +1,15 @@
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex1Canil\bin\Debug\net7.0\Ex1Canil.exe
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex1Canil\bin\Debug\net7.0\Ex1Canil.deps.json
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex1Canil\bin\Debug\net7.0\Ex1Canil.runtimeconfig.json
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex1Canil\bin\Debug\net7.0\Ex1Canil.dll
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex1Canil\bin\Debug\net7.0\Ex1Canil.pdb
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex1Canil\obj\Debug\net7.0\Ex1Canil.csproj.AssemblyReference.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex1Canil\obj\Debug\net7.0\Ex1Canil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex1Canil\obj\Debug\net7.0\Ex1Canil.AssemblyInfoInputs.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex1Canil\obj\Debug\net7.0\Ex1Canil.AssemblyInfo.cs
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex1Canil\obj\Debug\net7.0\Ex1Canil.csproj.CoreCompileInputs.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex1Canil\obj\Debug\net7.0\Ex1Canil.dll
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex1Canil\obj\Debug\net7.0\refint\Ex1Canil.dll
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex1Canil\obj\Debug\net7.0\Ex1Canil.pdb
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex1Canil\obj\Debug\net7.0\Ex1Canil.genruntimeconfig.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex1Canil\obj\Debug\net7.0\ref\Ex1Canil.dll
