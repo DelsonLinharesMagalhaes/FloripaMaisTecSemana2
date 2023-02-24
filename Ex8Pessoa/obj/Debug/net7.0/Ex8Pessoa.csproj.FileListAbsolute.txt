@@ -1,0 +1,15 @@
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex8Pessoa\bin\Debug\net7.0\Ex8Pessoa.exe
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex8Pessoa\bin\Debug\net7.0\Ex8Pessoa.deps.json
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex8Pessoa\bin\Debug\net7.0\Ex8Pessoa.runtimeconfig.json
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex8Pessoa\bin\Debug\net7.0\Ex8Pessoa.dll
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex8Pessoa\bin\Debug\net7.0\Ex8Pessoa.pdb
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex8Pessoa\obj\Debug\net7.0\Ex8Pessoa.csproj.AssemblyReference.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex8Pessoa\obj\Debug\net7.0\Ex8Pessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex8Pessoa\obj\Debug\net7.0\Ex8Pessoa.AssemblyInfoInputs.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex8Pessoa\obj\Debug\net7.0\Ex8Pessoa.AssemblyInfo.cs
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex8Pessoa\obj\Debug\net7.0\Ex8Pessoa.csproj.CoreCompileInputs.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex8Pessoa\obj\Debug\net7.0\Ex8Pessoa.dll
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex8Pessoa\obj\Debug\net7.0\refint\Ex8Pessoa.dll
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex8Pessoa\obj\Debug\net7.0\Ex8Pessoa.pdb
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex8Pessoa\obj\Debug\net7.0\Ex8Pessoa.genruntimeconfig.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex8Pessoa\obj\Debug\net7.0\ref\Ex8Pessoa.dll
