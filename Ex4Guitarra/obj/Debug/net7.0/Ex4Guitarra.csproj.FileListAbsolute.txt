@@ -1,0 +1,15 @@
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex4Guitarra\bin\Debug\net7.0\Ex4Guitarra.exe
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex4Guitarra\bin\Debug\net7.0\Ex4Guitarra.deps.json
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex4Guitarra\bin\Debug\net7.0\Ex4Guitarra.runtimeconfig.json
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex4Guitarra\bin\Debug\net7.0\Ex4Guitarra.dll
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex4Guitarra\bin\Debug\net7.0\Ex4Guitarra.pdb
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex4Guitarra\obj\Debug\net7.0\Ex4Guitarra.csproj.AssemblyReference.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex4Guitarra\obj\Debug\net7.0\Ex4Guitarra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex4Guitarra\obj\Debug\net7.0\Ex4Guitarra.AssemblyInfoInputs.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex4Guitarra\obj\Debug\net7.0\Ex4Guitarra.AssemblyInfo.cs
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex4Guitarra\obj\Debug\net7.0\Ex4Guitarra.csproj.CoreCompileInputs.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex4Guitarra\obj\Debug\net7.0\Ex4Guitarra.dll
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex4Guitarra\obj\Debug\net7.0\refint\Ex4Guitarra.dll
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex4Guitarra\obj\Debug\net7.0\Ex4Guitarra.pdb
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex4Guitarra\obj\Debug\net7.0\Ex4Guitarra.genruntimeconfig.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex4Guitarra\obj\Debug\net7.0\ref\Ex4Guitarra.dll
