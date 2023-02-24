@@ -1,0 +1,15 @@
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex2FichaInscricao\obj\Debug\net7.0\Ex2FichaInscricao.csproj.AssemblyReference.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex2FichaInscricao\obj\Debug\net7.0\Ex2FichaInscricao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex2FichaInscricao\obj\Debug\net7.0\Ex2FichaInscricao.AssemblyInfoInputs.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex2FichaInscricao\obj\Debug\net7.0\Ex2FichaInscricao.AssemblyInfo.cs
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex2FichaInscricao\obj\Debug\net7.0\Ex2FichaInscricao.csproj.CoreCompileInputs.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex2FichaInscricao\bin\Debug\net7.0\Ex2FichaInscricao.exe
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex2FichaInscricao\bin\Debug\net7.0\Ex2FichaInscricao.deps.json
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex2FichaInscricao\bin\Debug\net7.0\Ex2FichaInscricao.runtimeconfig.json
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex2FichaInscricao\bin\Debug\net7.0\Ex2FichaInscricao.dll
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex2FichaInscricao\bin\Debug\net7.0\Ex2FichaInscricao.pdb
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex2FichaInscricao\obj\Debug\net7.0\Ex2FichaInscricao.dll
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex2FichaInscricao\obj\Debug\net7.0\refint\Ex2FichaInscricao.dll
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex2FichaInscricao\obj\Debug\net7.0\Ex2FichaInscricao.pdb
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex2FichaInscricao\obj\Debug\net7.0\Ex2FichaInscricao.genruntimeconfig.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex2FichaInscricao\obj\Debug\net7.0\ref\Ex2FichaInscricao.dll

@@ -1,0 +1,15 @@
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex3MensagemCelular\bin\Debug\net7.0\Ex3MensagemCelular.exe
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex3MensagemCelular\bin\Debug\net7.0\Ex3MensagemCelular.deps.json
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex3MensagemCelular\bin\Debug\net7.0\Ex3MensagemCelular.runtimeconfig.json
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex3MensagemCelular\bin\Debug\net7.0\Ex3MensagemCelular.dll
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex3MensagemCelular\bin\Debug\net7.0\Ex3MensagemCelular.pdb
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex3MensagemCelular\obj\Debug\net7.0\Ex3MensagemCelular.csproj.AssemblyReference.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex3MensagemCelular\obj\Debug\net7.0\Ex3MensagemCelular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex3MensagemCelular\obj\Debug\net7.0\Ex3MensagemCelular.AssemblyInfoInputs.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex3MensagemCelular\obj\Debug\net7.0\Ex3MensagemCelular.AssemblyInfo.cs
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex3MensagemCelular\obj\Debug\net7.0\Ex3MensagemCelular.csproj.CoreCompileInputs.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex3MensagemCelular\obj\Debug\net7.0\Ex3MensagemCelular.dll
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex3MensagemCelular\obj\Debug\net7.0\refint\Ex3MensagemCelular.dll
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex3MensagemCelular\obj\Debug\net7.0\Ex3MensagemCelular.pdb
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex3MensagemCelular\obj\Debug\net7.0\Ex3MensagemCelular.genruntimeconfig.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex3MensagemCelular\obj\Debug\net7.0\ref\Ex3MensagemCelular.dll
