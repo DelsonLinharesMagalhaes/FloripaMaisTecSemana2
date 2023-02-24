@@ -1,0 +1,15 @@
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex7Animação\bin\Debug\net7.0\Ex7Animação.exe
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex7Animação\bin\Debug\net7.0\Ex7Animação.deps.json
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex7Animação\bin\Debug\net7.0\Ex7Animação.runtimeconfig.json
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex7Animação\bin\Debug\net7.0\Ex7Animação.dll
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex7Animação\bin\Debug\net7.0\Ex7Animação.pdb
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex7Animação\obj\Debug\net7.0\Ex7Animação.csproj.AssemblyReference.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex7Animação\obj\Debug\net7.0\Ex7Animação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex7Animação\obj\Debug\net7.0\Ex7Animação.AssemblyInfoInputs.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex7Animação\obj\Debug\net7.0\Ex7Animação.AssemblyInfo.cs
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex7Animação\obj\Debug\net7.0\Ex7Animação.csproj.CoreCompileInputs.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex7Animação\obj\Debug\net7.0\Ex7Animação.dll
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex7Animação\obj\Debug\net7.0\refint\Ex7Animação.dll
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex7Animação\obj\Debug\net7.0\Ex7Animação.pdb
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex7Animação\obj\Debug\net7.0\Ex7Animação.genruntimeconfig.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex7Animação\obj\Debug\net7.0\ref\Ex7Animação.dll
