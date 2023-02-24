@@ -1,0 +1,15 @@
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex6Filme\bin\Debug\net7.0\Ex6Filme.exe
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex6Filme\bin\Debug\net7.0\Ex6Filme.deps.json
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex6Filme\bin\Debug\net7.0\Ex6Filme.runtimeconfig.json
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex6Filme\bin\Debug\net7.0\Ex6Filme.dll
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex6Filme\bin\Debug\net7.0\Ex6Filme.pdb
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex6Filme\obj\Debug\net7.0\Ex6Filme.csproj.AssemblyReference.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex6Filme\obj\Debug\net7.0\Ex6Filme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex6Filme\obj\Debug\net7.0\Ex6Filme.AssemblyInfoInputs.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex6Filme\obj\Debug\net7.0\Ex6Filme.AssemblyInfo.cs
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex6Filme\obj\Debug\net7.0\Ex6Filme.csproj.CoreCompileInputs.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex6Filme\obj\Debug\net7.0\Ex6Filme.dll
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex6Filme\obj\Debug\net7.0\refint\Ex6Filme.dll
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex6Filme\obj\Debug\net7.0\Ex6Filme.pdb
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex6Filme\obj\Debug\net7.0\Ex6Filme.genruntimeconfig.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex6Filme\obj\Debug\net7.0\ref\Ex6Filme.dll
