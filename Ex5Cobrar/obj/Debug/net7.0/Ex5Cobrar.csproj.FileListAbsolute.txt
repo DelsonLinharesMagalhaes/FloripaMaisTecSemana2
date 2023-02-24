@@ -1,0 +1,15 @@
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex5Cobrar\obj\Debug\net7.0\Ex5Cobrar.csproj.AssemblyReference.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex5Cobrar\obj\Debug\net7.0\Ex5Cobrar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex5Cobrar\obj\Debug\net7.0\Ex5Cobrar.AssemblyInfoInputs.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex5Cobrar\obj\Debug\net7.0\Ex5Cobrar.AssemblyInfo.cs
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex5Cobrar\obj\Debug\net7.0\Ex5Cobrar.csproj.CoreCompileInputs.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex5Cobrar\bin\Debug\net7.0\Ex5Cobrar.exe
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex5Cobrar\bin\Debug\net7.0\Ex5Cobrar.deps.json
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex5Cobrar\bin\Debug\net7.0\Ex5Cobrar.runtimeconfig.json
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex5Cobrar\bin\Debug\net7.0\Ex5Cobrar.dll
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex5Cobrar\bin\Debug\net7.0\Ex5Cobrar.pdb
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex5Cobrar\obj\Debug\net7.0\Ex5Cobrar.dll
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex5Cobrar\obj\Debug\net7.0\refint\Ex5Cobrar.dll
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex5Cobrar\obj\Debug\net7.0\Ex5Cobrar.pdb
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex5Cobrar\obj\Debug\net7.0\Ex5Cobrar.genruntimeconfig.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana2C#\Ex5Cobrar\obj\Debug\net7.0\ref\Ex5Cobrar.dll
